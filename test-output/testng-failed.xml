@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PizzaHutTestSuite]" guice-stage="DEVELOPMENT">
+  <test name="PizzaHutTest(failed)">
+    <classes>
+      <class name="pom_tests.PizzaHutOrderFlowTestCases">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="addDrinksToCart"/>
+          <include name="applyGiftCard"/>
+          <include name="navigateToCheckout"/>
+          <include name="initailSetup"/>
+        </methods>
+      </class> <!-- pom_tests.PizzaHutOrderFlowTestCases -->
+    </classes>
+  </test> <!-- PizzaHutTest(failed) -->
+</suite> <!-- Failed suite [PizzaHutTestSuite] -->

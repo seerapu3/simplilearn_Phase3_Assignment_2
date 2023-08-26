@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PizzaHutTestSuite">
+  <test name="PizzaHutTest">
+    <classes>
+      <class name="pom_tests.PizzaHutOrderFlowTestCases"/>
+    </classes>
+  </test>
+</suite>

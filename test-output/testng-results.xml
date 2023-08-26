@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-26T12:30:21Z" name="PizzaHutTestSuite" finished-at="2023-08-26T12:31:19Z" duration-ms="57845">
+    <groups>
+    </groups>
+    <test started-at="2023-08-26T12:30:21Z" name="PizzaHutTest" finished-at="2023-08-26T12:31:19Z" duration-ms="57845">
+      <class name="pom_tests.PizzaHutOrderFlowTestCases">
+        <test-method is-config="true" signature="initailSetup()[pri:0, instance:pom_tests.PizzaHutOrderFlowTestCases@18c5069b]" started-at="2023-08-26T18:00:21Z" name="initailSetup" finished-at="2023-08-26T18:00:29Z" duration-ms="7772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initailSetup -->
+        <test-method signature="validateDealsPageURL()[pri:1, instance:pom_tests.PizzaHutOrderFlowTestCases@18c5069b]" started-at="2023-08-26T18:00:29Z" name="validateDealsPageURL" finished-at="2023-08-26T18:00:41Z" duration-ms="12471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDealsPageURL -->
+        <test-method signature="addSideItemToCart()[pri:2, instance:pom_tests.PizzaHutOrderFlowTestCases@18c5069b]" started-at="2023-08-26T18:00:41Z" name="addSideItemToCart" finished-at="2023-08-26T18:00:49Z" duration-ms="8097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSideItemToCart -->
+        <test-method signature="addDrinksToCart()[pri:3, instance:pom_tests.PizzaHutOrderFlowTestCases@18c5069b]" started-at="2023-08-26T18:00:49Z" name="addDrinksToCart" finished-at="2023-08-26T18:00:55Z" duration-ms="5729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDrinksToCart -->
+        <test-method signature="navigateToCheckout()[pri:4, instance:pom_tests.PizzaHutOrderFlowTestCases@18c5069b]" started-at="2023-08-26T18:00:55Z" name="navigateToCheckout" finished-at="2023-08-26T18:01:07Z" duration-ms="12315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCheckout -->
+        <test-method signature="applyGiftCard()[pri:5, instance:pom_tests.PizzaHutOrderFlowTestCases@18c5069b]" started-at="2023-08-26T18:01:07Z" name="applyGiftCard" finished-at="2023-08-26T18:01:15Z" duration-ms="7681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyGiftCard -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:pom_tests.PizzaHutOrderFlowTestCases@18c5069b]" started-at="2023-08-26T18:01:15Z" name="closeBrowser" finished-at="2023-08-26T18:01:19Z" duration-ms="3747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pom_tests.PizzaHutOrderFlowTestCases -->
+    </test> <!-- PizzaHutTest -->
+  </suite> <!-- PizzaHutTestSuite -->
+</testng-results>
